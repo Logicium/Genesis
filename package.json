@@ -1,0 +1,27 @@
+{
+  "name": "genesis",
+  "version": "1.0.0",
+  "description": "A code &amp; file generation library that aims to turn simple natural language requests into robust project structures and functional objects",
+  "main": "Genesis.js",
+  "dependencies": {
+    "compendium-js": "0.0.25",
+    "js-beautify": "^1.6.12",
+    "prompt": "^1.0.0",
+    "write": "^0.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Logicium/Genesis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Logicium/Genesis/issues"
+  },
+  "homepage": "https://github.com/Logicium/Genesis#readme"
+}
